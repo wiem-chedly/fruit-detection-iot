@@ -1,0 +1,21 @@
+train: /content/drive/MyDrive/Fruits_YOLO/my_fruits_dataset/images/train
+val: /content/drive/MyDrive/Fruits_YOLO/my_fruits_dataset/images/val
+
+nc: 15  # nombre de classes
+
+names:
+  0: avocado
+  1: cherry
+  2: coconut
+  3: date
+  4: fig
+  5: grape
+  6: kiwi
+  7: mango
+  8: peach
+  9: pear
+  10: pineapple
+  11: plum
+  12: pomegranate
+  13: strawberry
+  14: watermelon
