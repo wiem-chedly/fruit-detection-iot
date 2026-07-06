@@ -1,5 +1,5 @@
 # 🍎 Détection des fruits IoT
-📖 Description
+📖 Description :
 Ce projet consiste à développer un système intelligent de détection de fruits en temps réel, combinant le Deep Learning (YOLOv8), la communication MQTT, une base de données SQLite et une interface web interactive Streamlit.
 
 Le système capture des images via une webcam, détecte les fruits à l'aide d'un modèle YOLOv8 personnalisé, publie les résultats sur un broker MQTT, les stocke dans une base de données, et permet de contrôler des actionneurs IoT (porte, alarme) via une interface web.
